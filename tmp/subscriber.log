@@ -1,0 +1,4 @@
+2024-05-26 23:11:47,026 Ч subscriber_logger Ч INFO Ч Windows-10-10.0.19044-SP0 Ч ѕодписчик получил id: 150f9d...
+2024-05-26 23:11:47,027 Ч subscriber_logger Ч INFO Ч Windows-10-10.0.19044-SP0 Ч sub_id: 150f9d... Ч ѕодключение к брокеру broker.emqx.io
+2024-05-26 23:11:47,152 Ч subscriber_logger Ч INFO Ч Windows-10-10.0.19044-SP0 Ч sub_id: 150f9d... Ч »дет прослушка по теме lab/leds/glebiks
+2024-05-26 23:41:47,159 Ч subscriber_logger Ч INFO Ч Windows-10-10.0.19044-SP0 Ч sub_id: 150f9d... Ч ѕрослушка закончена
